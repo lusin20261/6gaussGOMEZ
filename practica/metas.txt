@@ -1,0 +1,5 @@
+1 ser medico
+2 ser profesional
+3 tener una carrera
+4 formar una familia de grande
+5 ser muy estudioso
