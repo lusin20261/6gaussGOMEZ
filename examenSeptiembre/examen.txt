@@ -1,0 +1,6 @@
+Este es mi examen de computacion este examen para mi 
+estuvo muy facil por que aqui viene la expli. por que
+solo tengo que poner carpetas y archivos , tambien se
+tiene que poner con mkdir y touch se ṕone alumnos y a
+demas si pones ll te sale muchisimos nombes como por 
+ejemplo : alumnos etc , etc .
