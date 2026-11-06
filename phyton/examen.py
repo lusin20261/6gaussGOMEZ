@@ -1,12 +1,11 @@
-a="(hola como estas)"
-b="(hola yo estoy bien , tu como te llamas)"
-a="(Mi nombre es mathias andre gomez gomero, el tuyo)"
-b="(Mi nombre es thiago , te voy a decir una operacion)"
-a="(okey dimela)"
-b="(cuanto es 20 + 20 + 20 + 7)"
-a="(facil , es 67 ooo queee proooo)"
-a=input"(mi nombre es mathias andre gomez gomero)"
-b=input"(mi edad es de 12 años)"
-c=input"(mi comida favorita son las menestreas con pollo)"
-d=input"(mi color favorito es el amarillo)"
-e=input"(mi animal favorito son los perritos de raza golden retriver)"
+
+a=input("mi nombre es mathias andre gomez gomero")
+b=input("mi edad es de 12 años")
+c=input("mi comida favorita son las menestreas con pollo")
+d=input("mi color favorito es el amarillo")
+e=input("mi animal favorito son los perritos de raza golden retriver")
+print("hola",mathias)
+print("tienes",12" años, que bueno.")
+print("ami tambien me gusta", ceviche,"es muy rico.")
+print("mi color favorito tambien es el,"amarillo)
+print("tu animal favorito es2",perrito)
